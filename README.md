@@ -1,3 +1,15 @@
+### Home Page
+![home page](https://github.com/bayramanli/laravel_todo_list_app/blob/master/images/home_page2.png)
+
+![home page](https://github.com/bayramanli/laravel_todo_list_app/blob/master/images/home_page.png)
+
+### Login Page
+![login page](https://github.com/bayramanli/laravel_todo_list_app/blob/master/images/login_page.png)
+
+### Register Page
+![register page](https://github.com/bayramanli/laravel_todo_list_app/blob/master/images/register_page.png)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
