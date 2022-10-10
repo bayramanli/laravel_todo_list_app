@@ -2,8 +2,6 @@
 <img src="https://github.com/bayramanli/laravel_todo_list_app/blob/master/images/home_page2.png" align="left" width="490">
 <img src="https://github.com/bayramanli/laravel_todo_list_app/blob/master/images/home_page.png" align="rigth" width="490">
 
-![home page](https://github.com/bayramanli/laravel_todo_list_app/blob/master/images/home_page.png)
-
 ### Login Page
 ![login page](https://github.com/bayramanli/laravel_todo_list_app/blob/master/images/login_page.png)
 
