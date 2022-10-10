@@ -1,6 +1,6 @@
 ### Home Page
 ![home page](https://github.com/bayramanli/laravel_todo_list_app/blob/master/images/home_page2.png)
-<img src="https://github.com/bayramanli/laravel_todo_list_app/blob/master/images/home_page2.png" width="250">
+<img src="https://github.com/bayramanli/laravel_todo_list_app/blob/master/images/home_page2.png" width="750">
 
 ![home page](https://github.com/bayramanli/laravel_todo_list_app/blob/master/images/home_page.png)
 
